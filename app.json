@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.srubio2.FirstApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"

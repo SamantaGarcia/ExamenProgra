@@ -1,7 +1,8 @@
-
 import React, { Component } from 'react' 
 import LoginView from './src/LoginView'
 import HomeView from './src/HomeView'
+import ArtistBox from './src/ArtistBox'
+import ArtistList from './src/ArtistList'
 import {Actions, Scene, Router} from 'react-native-router-flux'
 
 const scenes = Actions.create(
